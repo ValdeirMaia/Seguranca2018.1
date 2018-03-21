@@ -1,1 +1,1 @@
-
+A atividade foi feita juntamente com o aluno Abimael Silas Barros. As questões foram divididas proporcionalmente, sendo que eu respondi as questões de 1 à 4 e ele por sua vez as de 5 à 8. Aprendemos sobre chaves simétricas e assimétricas, GPG e KDC.
